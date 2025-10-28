@@ -3,4 +3,9 @@ numpy==1.26.4
 pandas==2.2.2 --only-binary=:all:
 scikit-learn==1.5.1
 gunicorn==23.0.0
+pip==25.1.1
+setuptools
+wheel
+
+
 
